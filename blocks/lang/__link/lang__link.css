@@ -11,14 +11,10 @@
   opacity: .8;
 }
 
-.lang__link:first-child {
-  text-decoration: underline;
-}
 
-
-.lang__link:focus {
+/*.lang__link:focus {
   text-decoration: underline;
-}
+}*/
 
 .lang__link:last-child {
   margin-right: 0;

@@ -1,0 +1,13 @@
+.navigation__list {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+@media screen and (max-width: 720px) {
+  .navigation__list {
+    flex-direction: column;
+  }
+}

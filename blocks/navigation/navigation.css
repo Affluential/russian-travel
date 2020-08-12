@@ -1,6 +1,5 @@
 .navigation {
-  display: flex;
-  flex-wrap: wrap;
+
 }
 
 @media screen and (max-width: 720px) {

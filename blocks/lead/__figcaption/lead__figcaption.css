@@ -1,9 +1,22 @@
 .lead__figcaption {
   color: white;
   margin: 8px 0px 0px;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 10px;
   line-height: 14px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
+}
+
+
+@media screen and (max-width: 768px) {
+  .lead__figcaption {
+    margin-left: 3%;
+  }
+}
+
+@media screen and (max-width: 533px) {
+  .lead__figcaption {
+    margin-left: 16px;
+  }
 }
