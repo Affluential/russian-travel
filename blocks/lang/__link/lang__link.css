@@ -11,7 +11,7 @@
   opacity: .8;
 }
 
-.lang__link:default {
+.lang__link:first-child {
   text-decoration: underline;
 }
 
