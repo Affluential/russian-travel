@@ -1,0 +1,32 @@
+.lang__link {
+  color: white;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.1;
+  text-decoration: none;
+  margin-right: 18px;
+}
+
+.lang__link:hover {
+  opacity: .8;
+}
+
+.lang__link:default {
+  text-decoration: underline;
+}
+
+
+.lang__link:focus {
+  text-decoration: underline;
+}
+
+.lang__link:last-child {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 484px) {
+  .lang__link {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,9 @@
+.lead__figcaption {
+  color: white;
+  margin: 8px 0px 0px;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
